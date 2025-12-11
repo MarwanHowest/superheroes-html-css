@@ -15,4 +15,4 @@ Het doel is het leren van de basis van **HTML** en **CSS**, en het creëren van 
 ---
 
 **Marwan Benahmed**  
-Portfolio-project – Superheroes: basis HTML & CSS
+Portfolio project – Superheroes: basis HTML & CSS
