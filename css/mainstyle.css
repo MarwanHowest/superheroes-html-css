@@ -1,0 +1,29 @@
+/* Basic CSS Style */
+
+body {
+	padding: 10px 150px 50px 150px;
+	background-color: lightyellow;
+}
+
+h1 {
+	color: red;
+}
+
+span {
+	color: red;
+	font-weight: bold;
+	font-style: italic;
+}
+
+div {
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 15px;
+	padding-left: 20px;
+
+	margin-bottom: 20px;
+	background-color: rgba(255, 165, 0, 0.25);
+	border: 1px darkred solid;
+	border-top-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+}
